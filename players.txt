@@ -1,4 +1,4 @@
-Family-tree
+FamilyTree: 
 Bishnu Shrestha 
 jayanti Shrestha
 Rajesh Shrestha
